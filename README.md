@@ -4,7 +4,7 @@ This is a tiny program that can generate texts of the objective questions of Sha
 这是一个自动生成上海英语模卷客观题和“红书”问卷星批量添加栏目的程序
 
 ## 使用方法：
-1. 在“answer.txt”中输入答案(大小写、是否带空格无关紧要)
+1. 在程序相同路径下创建“answer.txt”并在其中输入答案(大小写、是否带空格无关紧要)
 2. 双击“simpaper.exe”或是“redbook.exe”运行程序
 3. 打开问卷星，创建考试问卷，在左上角点击添加姓名
 4. 打开“output.txt”，复制其中文本，随后于批量添加考试题-->批量添加-->把文本复制进文本框
