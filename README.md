@@ -15,5 +15,5 @@ This is a tiny program that can generate texts of the objective questions of Sha
 3. 每次运行程序后，若“output.txt”不存在，程序会自行创建“output.txt”；若“output.txt”存在，输出结果会覆盖“output.txt”的原有内容
 4. 若没有“answer.txt”，可在程序同路径下自行创建
 
-## P.S
+## P.S.
 1. 本程序由Dev-C++编写，由于ANSI格式g++编译中文乱码因此上传代码编码为UTF-8
