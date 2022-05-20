@@ -1,7 +1,7 @@
-# AutoWJX
-This is a tiny program that can generate texts of the objective questions of Shanghai English Gaokao or the ‘redbook’ that can be fed into the wjx.cn website in order to minimalize the time of setting up the exam. 
-
+# 英语高考客观题自动问卷星填写程序 | AutoWJX
 这是一个自动生成上海英语模卷客观题和“红书”问卷星批量添加栏目的程序
+
+This is a tiny program that can generate texts of the objective questions of Shanghai English Gaokao or the ‘redbook’ that can be fed into the wjx.cn website in order to minimalize the time of setting up the exam. 
 
 ## 使用方法：
 1. 在程序相同路径下创建“answer.txt”并在其中输入答案(大小写、是否带空格无关紧要)
